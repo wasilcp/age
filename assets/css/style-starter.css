@@ -14557,6 +14557,12 @@ header.active {
 .navbar .navbar-brand span.main-log {
   font-size: 15px;
 }
+/*@media only screen and (max-width: 768px) {
+         .ch
+         {
+          height: 250px;
+         }
+     }*/
 
 .navbar .navbar-brand:hover {
   opacity: 0.95;
